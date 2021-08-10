@@ -22,4 +22,7 @@ Video와 Music에서 추출한 feature vector를 이용해 두 벡터의 거리�
 
 ![image](https://user-images.githubusercontent.com/67357059/128816298-1a16693a-3640-4fbf-b339-de56f1c430c1.png)
 
-
+# Reference
+Yagya Raj Pandeya (2020) Deep learning based late fusion of multimodal information for emotion classification of music video. Springer
+Quo vadis, action recognition? A new model and the kinetics dataset.
+Fan Y, Lu X, Li D, Liu Y (2016) Video-based emotion recognition using CNN-RNN and C3D hybridnetworks. International conference on multimodal interfaces. Tokyo, Japan
