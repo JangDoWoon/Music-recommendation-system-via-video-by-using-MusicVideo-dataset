@@ -26,3 +26,9 @@ Video와 Music에서 추출한 feature vector를 이용해 두 벡터의 거리�
 * Yagya Raj Pandeya (2020) Deep learning based late fusion of multimodal information for emotion classification of music video. Springer
 * Quo vadis, action recognition? A new model and the kinetics dataset.
 * Fan Y, Lu X, Li D, Liu Y (2016) Video-based emotion recognition using CNN-RNN and C3D hybridnetworks. International conference on multimodal interfaces. Tokyo, Japan
+* Bahuleyan H (2018) Music genre classification using machine learning techniques.
+* Choi K, Fazekas G, Sandler M and Cho K (2017) Transfer learning for music classification and regression tasks. International Society for Music Information Retrieval Conference
+* Dai W, Dai C, Qu S, Li J, and Das S (2016) Very deep convolutional neural networks for raw waveforms.
+* Grekow J (2018) From content-based music emotion recognition to emotion maps of musical pieces. Springer
+* Bromley, Jane, Guyonk (1994) Signature verification using a "Siamese" time delay neural network. Advances in Neural Information Processing Systems
+* Chatterjee, Moitreya, Luo, Yunan (2018) Similarity Learning with (or without) Convolutional Neural Network. Retrieved
