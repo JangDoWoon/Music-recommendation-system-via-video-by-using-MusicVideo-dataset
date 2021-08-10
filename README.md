@@ -9,6 +9,6 @@ Video는 I3D모델을 이용해 6개의 emotion을 예측하는 모델을 만든
 # Mapping Embedding space
 Video와 Music에서 추출한 feature vector를 이용해 두 벡터의 거리를 구할 수 있는 Space에 mapping
 ## Contrastive loss
-두 벡터사이의 Class가 같으면 1 다르면 0에 가깝게 만들어줌.
+두 벡터사이의 Class가 같으면 1 다르면 0에 가깝게 만들어줌. 각 Class는 Video와 Music에 tag되어 있는 emotion임.
 
 ![image](https://user-images.githubusercontent.com/67357059/128815829-da620b04-77de-4452-a8a0-aeacfc616bdc.png)
