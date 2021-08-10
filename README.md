@@ -12,3 +12,14 @@ Video와 Music에서 추출한 feature vector를 이용해 두 벡터의 거리�
 두 벡터사이의 Class가 같으면 1 다르면 0에 가깝게 만들어줌. 각 Class는 Video와 Music에 tag되어 있는 emotion임.
 
 ![image](https://user-images.githubusercontent.com/67357059/128815829-da620b04-77de-4452-a8a0-aeacfc616bdc.png)
+# Evaluation
+* Test set을 생성한 후 각 Video로부터 거리가 가장 가까운 music을 뽑음. 
+* 그 후 Video의 emotion tag가 Music의 emotion tag와 동일한지 확인 (정확도 추정).
+* 결과적으로 정확도는 0.58이 나옴.
+## Confusion matrix
+* Neutral에 대한 부분이 개선되었지만 아직 못 맞추는 부분이 많음 ( 중립적인 부분에 대해서는 실제 사람이 추측을 하더라도 맞추지 못하는 경우가 많을 것임)
+* 또한 Fear와 Tension의 경우 폭력적인 장면, 잔인한 장면, 두려움에 떠는 장면 등이 많이 포함되어 잘 classify되기 힘듦.
+
+![image](https://user-images.githubusercontent.com/67357059/128816298-1a16693a-3640-4fbf-b339-de56f1c430c1.png)
+
+
